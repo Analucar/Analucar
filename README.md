@@ -7,7 +7,7 @@ Besides being passionate about technology I've also enjoyed dancing Ballet for t
 
 💻 I am currently studying **Software Engineering** at **University of Minho**.
 
-### :star2: College Projets :star2:
+### :star2: University Projects :star2:
 
 [**Here**](https://github.com/Analucar/UMinho) you can find my college projets that I did over the years. 
 
