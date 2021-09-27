@@ -9,7 +9,7 @@ Besides being passionate about technology I've also enjoyed dancing Ballet for t
 
 ### :star2: College Projets :star2:
 
-[**Here**](https://pages.github.com/) you can find my college projets that I did over the years. 
+[**Here**](https://github.com/Analucar/UMinho) you can find my college projets that I did over the years. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Analucar)](https://github.com/anuraghazra/github-readme-stats)
 
