@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hello👋
+
+### :star2: Welcome to my github page! :star2:
+
+My name is Ana Luísa, but you can call me **Luísa** and I was born and raised in Braga, Portugal.
+Besides being passionate about technology I've also enjoyed dancing Ballet for twelve years. 
+
+💻 I am currently studying **Software Engineering** at **University of Minho**.
+
+### :star2: College Projets :star2:
+
+[**Here**](https://pages.github.com/) you can find my college projets that I did over the years. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Analucar)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Analucar)
 
 <!--
 **Analucar/Analucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
