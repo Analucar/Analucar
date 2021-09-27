@@ -1,6 +1,6 @@
 # Hello👋
 
-### :star2: Welcome to my github page! :star2:
+### :star2: Welcome to my github page :star2:
 
 My name is Ana Luísa, but you can call me **Luísa** and I was born and raised in Braga, Portugal.
 Besides being passionate about technology I've also enjoyed dancing Ballet for twelve years. 
