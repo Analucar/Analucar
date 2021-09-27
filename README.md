@@ -19,7 +19,7 @@ In this portfolio you can find the projects that I developed while studying soft
 These are the programming tools that I use the most in my projects and programming exercises.
 
 
-### Other Statics
+### Other Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Analucar&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
