@@ -11,7 +11,7 @@ Besides being passionate about technology I've also enjoyed dancing Ballet for t
 
 [**Here**](https://github.com/Analucar/UMinho) you can find my college projets that I did over the years. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Analucar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Analucar)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Analucar)
