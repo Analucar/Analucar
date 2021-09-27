@@ -4,8 +4,9 @@
 
 My name is Ana Luísa, but you can call me **Luísa**. I was born in Braga, Portugal where I currently live and study.
 I've always been curious about computers and technology the reason why I've decided to study **Software Engineering** at [University of Minho](https://www.uminho.pt/PT).
-
+<!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+-->
 
 ## University Projects 🖥️
 
