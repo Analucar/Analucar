@@ -18,7 +18,7 @@ In this portfolio you can find the projects that I developed while studying for 
 
 In this portfolio you can find the projects that I developed while studying for my **master's degree** in software engineering. 
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Master-black?logo=Git&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Master-black?logo=Git&style=flat)](https://github.com/Analucar/UMinho-Master)
 
 ## Skills :star2: 
 
