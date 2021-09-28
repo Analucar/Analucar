@@ -1,18 +1,24 @@
 # Hello, welcome to my GitHub 👋
 
-## Myself :hibiscus:
+My name is Ana Luísa, but you can call me **Luísa**. 
 
-My name is Ana Luísa, but you can call me **Luísa**. I was born in Braga, Portugal where I live and study.
-I've always been curious about computers and technology the reason why I've decided to study **Software Engineering** at [University of Minho](https://www.uminho.pt/PT).
+I was born in Braga, Portugal where I live and study. I've always been curious about computers and technology the reason why I've decided to study **Software Engineering** at [University of Minho](https://www.uminho.pt/PT).
+
+:mortar_board: Currently I'm studying for my master degree in Software Engineering at University of Minho.
+
 <!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 -->
 
 ## University Projects 🖥️
 
-In this portfolio you can find the projects that I developed while studying software engineering. 
+In this portfolio you can find the projects that I developed while studying for my **bachelor's degree** in software engineering.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Git&logoColor=#000000)](https://github.com/Analucar/UMinho) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Bachelor-black?logo=Git&style=flat)](https://github.com/Analucar/UMinho) 
+
+In this portfolio you can find the projects that I developed while studying for my **master's degree** in software engineering. 
+
+![Portfolio](https://img.shields.io/badge/Portfolio-Master-black?logo=Git&style=flat)
 
 ## Skills :star2: 
 
