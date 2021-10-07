@@ -6,9 +6,8 @@ I was born in Braga, Portugal where I live and study. I've always been curious a
 
 :mortar_board: Currently I'm studying for my master's degree in Software Engineering at University of Minho.
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lu%C3%ADsa-carneiro-a41b01222/)
+
 
 ## University Projects 🖥️
 
